@@ -1,0 +1,9 @@
+.article-manage .btns-div{
+    margin-bottom: 10px;
+}
+.article-manage .ant-table table{
+    text-align: center;
+}
+.article-manage .ant-table-thead > tr > th{
+    text-align: center;
+}
